@@ -1,6 +1,6 @@
 ---
 title: hey
-role: Example Role
+role: why is this changing here
 avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
